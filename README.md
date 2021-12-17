@@ -24,10 +24,10 @@ Description of variables:
 
 Please cite the following if you use this data in any capacity:
 
-- [E. Ostuni, R. G. Chapman, R. E. Holmlin, S. Takayama, G. M. Whitesides, "A Survey of Structure-Property Relationships of Surfaces that Resist the Adsorption of Protein," ](https://pubs.acs.org/doi/10.1021/la010384m)
+- [E. Ostuni, R. G. Chapman, R. E. Holmlin, S. Takayama, G. M. Whitesides, "A Survey of Structure-Property Relationships of Surfaces that Resist the Adsorption of Protein," *Langmuir*, **2001**, 17, 18, 5605-5620](https://pubs.acs.org/doi/10.1021/la010384m)
 
 Additional reading on machine learning applications involving this dataset:
 
-- [T. C. Le, M. Penna, D. A. Winkler, I. Yarovsky, "Quantitative design rules for protein-resistant surface coatings using machine learning," *Scientific Reports*, #2019#, 9, 265](https://www.nature.com/articles/s41598-018-36597-5)
-- [Y. Liu, D. Zhang, Y. Tang, Y. Zhang, Y. Chang, J. Zheng, "Machine Learning-Enabled Design and Prediction of Protein Resistance on Self-Assembled Monolayers and Beyond," *ACS Appl. Mater. Interfaces*, #2021#, 13, 9, 11306-11319](https://pubs.acs.org/doi/10.1021/acsami.1c00642)
-- [Y. Liu, D. Zhang, Y. Tang, Y. Zhang, X. Gong, S. Xie, J. Zheng, "Machine Learning-Enabled Repurposing and Design of Antifouling Polymer Brushes," *Chem. Eng. Journal*, #2021#, 420, 1](https://www.sciencedirect.com/science/article/pii/S138589472101456X)
+- [T. C. Le, M. Penna, D. A. Winkler, I. Yarovsky, "Quantitative design rules for protein-resistant surface coatings using machine learning," *Scientific Reports*, **2019**, 9, 265](https://www.nature.com/articles/s41598-018-36597-5)
+- [Y. Liu, D. Zhang, Y. Tang, Y. Zhang, Y. Chang, J. Zheng, "Machine Learning-Enabled Design and Prediction of Protein Resistance on Self-Assembled Monolayers and Beyond," *ACS Appl. Mater. Interfaces*, **2021**, 13, 9, 11306-11319](https://pubs.acs.org/doi/10.1021/acsami.1c00642)
+- [Y. Liu, D. Zhang, Y. Tang, Y. Zhang, X. Gong, S. Xie, J. Zheng, "Machine Learning-Enabled Repurposing and Design of Antifouling Polymer Brushes," *Chem. Eng. Journal*, **2021**, 420, 1](https://www.sciencedirect.com/science/article/pii/S138589472101456X)
