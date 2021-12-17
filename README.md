@@ -1,6 +1,6 @@
 # Repository of data used to produce "Whitesides Rules" by Ostuni et al., 2001
 
-Assembled and published by [Daniel E. Christiansen](danchristiansen1@gmail.com) under the MIT License.
+Assembled and published by Daniel E. Christiansen under the MIT License.
 
 ---
 
@@ -20,7 +20,7 @@ Description of variables:
 - Lysozyme-3 - %ML of Lysozyme at 3 minutes
 - Lysozyme-30 - %ML of Lysozyme at 30 minutes
 
-## Reference
+## References
 
 Please cite the following if you use this data in any capacity:
 
